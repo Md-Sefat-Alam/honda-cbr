@@ -1,0 +1,22 @@
+.header-bg{
+    background-color: #264653;
+}
+.text-color-gray-300{
+    color:#E0E0E0;
+}
+.font14{
+    font-size: 0.875rem;
+}
+.font48{
+    font-size: 3rem;
+}
+.btn-bg-color{
+    background-color: #E76F51;
+}
+.btn-bg-color:hover{
+    background-color: #E76F51;
+    box-shadow: 0px 0px 10px 0px #E76F51;
+}
+.btn-bg-color:focus{
+    background-color: #E76F51;
+}
