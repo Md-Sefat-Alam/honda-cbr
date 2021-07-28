@@ -13,8 +13,11 @@
 .btn-bg-color{
     background-color: #E76F51;
 }
-.common-color{
+#common-color{
     color: #E76F51;
+}
+#common-color2{
+    color: #23A6F0;
 }
 .btn-bg-color:hover{
     background-color: #E76F51;
