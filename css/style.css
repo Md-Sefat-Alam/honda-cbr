@@ -1,5 +1,5 @@
 .header-bg{
-    background-color: #264653;
+    background-color: #264653e8;
 }
 .text-color-gray-300{
     color:#E0E0E0;
@@ -25,5 +25,10 @@
 }
 .btn-bg-color:focus{
     background-color: #E76F51;
+}
+
+#navbarNav .nav-item:hover .nav-link{
+    color: orange !important;
+
 }
 
